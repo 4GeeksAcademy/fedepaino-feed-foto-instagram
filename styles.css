@@ -1,0 +1,79 @@
+* {
+	border: 1px dashed transparent;
+	min-height: 10px;
+}
+
+body {
+	margin: 0;
+	font-family: "Open Sans", serif;
+}
+
+header {
+	margin: 0;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+main {
+	margin-top: 10px;
+	width: 100%;
+	background-color: lightgray;	
+}
+
+footer {
+	margin: 0;
+	width: 100%;
+	text-align: center;
+}
+
+.section-perro {	
+	margin: 10px 100px 10px 100px;
+	padding-left: 20%;
+	padding-right: 20%;
+	background-color: lightgray;
+}
+
+.section-gato {
+	margin: 10px 100px 10px 100px;
+	padding-left: 20%;
+	padding-right: 20%;
+	background-color: lightgray;
+}
+
+.section-trabajo {
+	margin: 10px 100px 10px 100px;
+	padding-left: 20%;
+	padding-right: 20%;
+	background-color: lightgray;
+}
+
+.section-comida {
+	margin: 10px 100px 10px 100px;
+	padding-left: 20%;
+	padding-right: 20%;
+	background-color: lightgray;
+}
+
+h2, p {
+	margin: 10px;
+	margin-right: 20px;
+}
+
+.imagenes {
+	margin: 5px;
+}
+
+.container-card {
+	background-color: white;
+	
+}
+
+.cabeza-card {
+	display: flex;
+	justify-content: space-between;
+}
+
+strong {
+	color: grey;
+}
